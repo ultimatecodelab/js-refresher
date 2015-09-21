@@ -1,4 +1,4 @@
-# Introduction to Node.js and Protocols
+# JavaScript Refresher
 In this exercise we will refresh our JavaScript skills.
 
 ## Exercises
