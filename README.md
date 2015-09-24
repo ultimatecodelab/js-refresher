@@ -12,7 +12,7 @@ In this exercise we will refresh our JavaScript skills.
 
 1. Create a function in refresher.js that takes a single integer argument, squares it, adds two, and returns that value (x -> x^2 + 2). Test that the function works by applying it to the value 8 and outputting the result to the console.
 
-1. Create a list of the even numbers from 1 to 60.
+1. Create an array of the even numbers from 1 to 60.
 
 1. Apply the function  to the list of numbers, outputting the result to the console.
 
