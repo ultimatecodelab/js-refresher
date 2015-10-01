@@ -1,3 +1,4 @@
+###### Semantic Web and Linked Data - Exercise 2
 # JavaScript Refresher
 In this exercise we will refresh our JavaScript skills.
 
